@@ -16,6 +16,7 @@ phrase = yells
 
 def speak_to_grandma(phrase)
   if phrase == phrase
-    puts "H"
+    "HUH? ! SPEAK UP, SONNY!"
+  elseif 
   
 end
